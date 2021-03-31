@@ -17,6 +17,7 @@ font-family: 'Monsieur-La-Doulaise';*/
 h1{
    font-size: 70px;
    font-family: 'atma';
+   margin-bottom: 30px;
 }
 h2{
     font-family: 'monsieur-la-doulaise';
@@ -44,4 +45,8 @@ a {
 }
 a:hover {
     background-position: 0 100%;
+}
+a{
+   text-align: left; 
+   padding: 30px;
 }
